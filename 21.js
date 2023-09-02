@@ -99,6 +99,7 @@ function winner(){
         amount *=2
         message.innerHTML=` Congrats ${player} ,You won Rs.${amount} `
     }
-    game=false
+    
 }
+    game=false
 }
