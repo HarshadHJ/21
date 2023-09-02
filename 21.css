@@ -62,3 +62,14 @@ main p{
     background-color: brown;
     color: white;
 }
+@media(max-width:600px){
+    #cont{
+        width: 80%;
+    }
+    #header h1{
+        font-size: 3rem;
+    }
+    #header img{
+        width: 70%;
+    }
+}
